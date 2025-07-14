@@ -1,6 +1,8 @@
 import { useState } from "react";
 import Home from "./components/Home";
-//Some code missing here!!!
+
+import { Route, Routes } from "react-router-dom";
+
 import Navbar from "./components/Navbar";
 import Add from "./components/Add";
 function App() {
